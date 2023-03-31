@@ -3,6 +3,7 @@ Hello, I am Ali and I have created this repository to remind myself what am I le
 
 ## Currently Learning
 - [Learn Go with Tests](https://github.com/quii/learn-go-with-tests)
+- [100 Days of Swift UI](https://www.hackingwithswift.com/100/swiftui)
 
 ## Wishlist
 - [C++ (The Cherno)](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
